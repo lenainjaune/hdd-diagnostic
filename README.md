@@ -1,0 +1,2 @@
+# hdd-diagnostic
+How to
