@@ -2,7 +2,7 @@
 How to
 
 
-Avant propos : cette version en vrac et non organisée est extrait du fichier /media/user/DATA/projets/linux/hdd/user-tosh_sda1_trouble
+Avant propos : cette version en vrac, non structurée et peu lisible est extraite du fichier /media/user/DATA/projets/linux/hdd/user-tosh_sda1_trouble
 
 # Contexte
 Dans le cadre d'une p2v de user-tosh vers une VM QEmu/KVM, la sauvegarde de la partition système sda1 avec Clonezilla a été interrompue 
