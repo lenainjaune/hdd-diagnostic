@@ -1,4 +1,4 @@
-# hdd-diagnostic
+**hdd-diagnostic**
 How to
 
 
@@ -1214,3 +1214,6 @@ https://www.smartmontools.org/wiki/BadBlockHowto#ext2ext3firstexample
 
 
     # => trop cooooool :DDDDDD !!!
+# Si rien n'est possible pour réparer
+Penser à photorec ou [ddrescue](https://www.kuhnline.com/how-to-clone-hard-drives-with-ddrescue/)
+    
