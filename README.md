@@ -1,8 +1,9 @@
 **hdd-diagnostic**
 How to
 
-
 Avant propos : cette version en vrac, non structurée et peu lisible est basé sur le fichier /media/user/DATA/projets/linux/hdd/user-tosh_sda1_trouble peu lisible aussi. A terme cette version se voudra claire, structurée, détaillée et compréhensible.
+
+Voir (fusionner par la suite) aussi l'utilisation de smartmontools [ici](https://www.thomas-krenn.com/en/wiki/SMART_tests_with_smartctl)
 
 # Contexte
 Dans le cadre d'une p2v de user-tosh vers une VM QEmu/KVM, la sauvegarde de la partition système sda1 avec Clonezilla a été interrompue 
