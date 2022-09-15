@@ -1,6 +1,8 @@
 **hdd-diagnostic**
 How to
 
+TODO : ajouter un guide sur badblocks et notamment la possibilité de reprendre une opération interrompue (voir [ici](https://www.qworqs.com/2022/07/26/resume-bad-blocks-where-it-was-stopped/))
+
 Avant propos : cette version en vrac, non structurée et peu lisible est basé sur le fichier /media/user/DATA/projets/linux/hdd/user-tosh_sda1_trouble peu lisible aussi. A terme cette version se voudra claire, structurée, détaillée et compréhensible.
 
 Voir (fusionner par la suite) aussi l'utilisation de smartmontools [ici](https://www.thomas-krenn.com/en/wiki/SMART_tests_with_smartctl)
